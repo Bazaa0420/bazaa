@@ -1,0 +1,143 @@
+.header{
+    color: #FFFFFF;
+    background-color: #101010;
+    text-align: center;
+    font-size: 80px;
+    padding: 8px 0px;
+    gap: 1082px;
+
+}
+.lake{
+    color: #303030;
+    text-align: center;
+    font-weight: 800;
+    font-size: 80px;
+    
+}
+.image{
+    display: flex;
+    justify-content: center;
+    gap: 66px;
+    height: 400px;
+
+}
+.tour{
+    color: #1AC74A;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+.red{
+    color: #303030;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+.flex{
+    display: flex;
+}
+.card{
+    width: 350px;
+    padding: 20px; 
+    border: 1px solid black;
+    border-radius: 8px;
+    justify-content: space-between;
+}
+.paris{
+    color: #1AC74A;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    text-align: center;
+}
+.agency{
+    text-align: center;
+    color: #303030;
+    text-align: center;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+.pack{
+
+}
+.luxury{
+    border-radius: 8px;
+    border: 2px solid #18BA51;
+    background: #FFF;
+    display: flex;
+    width: 308px;
+    min-height: 370px;
+    padding: 20px;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 80px;
+}
+.starter{
+    border-radius: 8px;
+    background: #FFF;
+    display: flex;
+    width: 308px;
+    min-height: 370px;
+    padding: 20px;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 80px;
+}
+.ready{
+    display: flex;
+    width: 2250px;
+    padding: 40px 0px;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 10px; 
+    background: #171717;
+    margin-top: 160px;
+}
+.are{
+    color: #FFF;
+    text-align: center;
+    font-family: Montserrat;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+.order{
+    border-radius: 4px;
+    background: #18BA51;
+    display: inline-flex;
+    height: 44px;
+    padding: 10px 20px;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+}
+.pine{
+    display: flex;
+    width: 2050px;
+    padding: 80px 100px;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 10px;
+    border-top: 1px solid #1AC74A;
+    background: #101010;
+}
+.blue{
+    color: #FFF;
+    text-align: center;
+    font-size: 28px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    display: flex;
+    width: 1200px;
+    max-width: 1440px;
+    justify-content: space-between;
+    align-items: center;
+}
